@@ -1,0 +1,13 @@
+#items
+item.eb:MagnetRing.name=Magnet Ring
+item.eb:FlyingRing.name=Flying Ring
+item.eb:BlankRing.name=Blank Ring
+item.eb:Wings.name=Wings
+item.eb:MagnetIron.name=Magnetized Iron
+item.eb:GoldDust.name=Gold Dust
+item.eb:IronDust.name=Iron Dust
+
+#blocks
+
+#CreativeTab
+itemGroup.eb=Extra Baubles
