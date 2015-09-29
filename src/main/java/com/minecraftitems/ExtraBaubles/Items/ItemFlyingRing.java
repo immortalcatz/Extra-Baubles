@@ -1,13 +1,14 @@
 package com.minecraftitems.ExtraBaubles.Items;
 
 import baubles.api.BaubleType;
+import com.minecraftitems.ExtraBaubles.providers.IFlightProvider;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
-public class ItemFlyingRing extends ItemBaubles
+public class ItemFlyingRing extends ItemBaubles implements IFlightProvider
 {
     public ItemFlyingRing()
     {
@@ -24,35 +25,34 @@ public class ItemFlyingRing extends ItemBaubles
     @Override
     public void onUnequipped(ItemStack itemstack, EntityLivingBase entity)
     {
-        stopFlying((EntityPlayer) entity);
+        StopFlying((EntityPlayer) entity);
     }
 
     @Override
     public void onEquipped(ItemStack itemstack, EntityLivingBase entity)
     {
-        startFlying((EntityPlayer) entity);
+        StartFlying((EntityPlayer) entity);
     }
 
     @Override
     public void onEquippedOrLoadedIntoWorld(ItemStack stack, EntityLivingBase entity)
     {
-        startFlying((EntityPlayer) entity);
+        StartFlying((EntityPlayer) entity);
     }
 
-    private void startFlying(EntityPlayer player)
+    public void StartFlying(EntityPlayer player)
     {
         player.capabilities.allowFlying = true;
         if (!player.getEntityWorld().isRemote)
         {
             player.sendPlayerAbilities();
         }
-        //if  (player.capabilities.isFlying == true)
-        //{
+
             player.getEntityWorld().playSoundAtEntity(player, "mob.enderdragon.wings", 1F, 1f);
-        //}
+
     }
 
-    private void stopFlying(EntityPlayer player)
+    public void StopFlying(EntityPlayer player)
     {
         player.capabilities.isFlying = false;
         player.capabilities.allowFlying = false;
@@ -71,7 +71,7 @@ public class ItemFlyingRing extends ItemBaubles
             EntityPlayer player = ((EntityPlayer) entity);
             if (!player.capabilities.allowFlying)
             {
-                startFlying(player);
+                StartFlying(player);
             }
         }
     }

@@ -1,6 +1,7 @@
 package com.minecraftitems.ExtraBaubles.tileentity;
 
 import com.minecraftitems.ExtraBaubles.reference.Reference;
+import com.minecraftitems.ExtraBaubles.utility.Log;
 import net.minecraft.client.renderer.Tessellator;
 import net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer;
 import net.minecraft.tileentity.TileEntity;
@@ -37,7 +38,7 @@ public class TileEntityRenderPowerPipe extends TileEntitySpecialRenderer {
         Tessellator tessellator = Tessellator.instance;
         tessellator.startDrawingQuads();
         {
-            tessellator.addVertexWithUV(1 - 11 * pixel / 2, -11 * pixel / 2, 1-11 * pixel / 2, 10 * TexturePixel, 5 * TexturePixel);
+            tessellator.addVertexWithUV(1 - 11 * pixel / 2, 11 * pixel / 2, 1-11 * pixel / 2, 10 * TexturePixel, 5 * TexturePixel);
             tessellator.addVertexWithUV(1 - 11 * pixel / 2, 1, 1-11 * pixel / 2, 10 * TexturePixel, 0 * TexturePixel);
             tessellator.addVertexWithUV(11 * pixel / 2, 1, 1-11 * pixel / 2, 5 * TexturePixel, 10 * TexturePixel);
             tessellator.addVertexWithUV(11 * pixel / 2, 1-11 * pixel / 2, 1-11 * pixel / 2, 5 * TexturePixel, 5 * TexturePixel);
