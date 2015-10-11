@@ -6,7 +6,7 @@ item.eb:Wings.name=Wings
 item.eb:MagnetIron.name=Magnetized Iron
 item.eb:GoldDust.name=Gold Dust
 item.eb:IronDust.name=Iron Dust
-item.eb:BeltWaterWalking.name=Water walking belt
+item.eb:ItemBeltWaterWalking.name=Water walking belt
 item.eb:AmuletNightVision.name=Amulet of Night Vision
 item.eb:MixedRing.name=Mixed Ring
 

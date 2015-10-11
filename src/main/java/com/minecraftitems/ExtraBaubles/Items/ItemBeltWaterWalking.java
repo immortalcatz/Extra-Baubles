@@ -14,7 +14,7 @@ public class ItemBeltWaterWalking extends ItemBaubles
     public ItemBeltWaterWalking()
     {
         super();
-        setUnlocalizedName("BeltWaterWalking");
+        setUnlocalizedName("ItemBeltWaterWalking");
 
     }
 

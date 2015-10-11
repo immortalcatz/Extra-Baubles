@@ -16,5 +16,6 @@ public class ItemCrafting
         GameRegistry.addRecipe(new ItemStack(ItemInit.IRON_DUST), "  s", " i ", "b  ", 's', Items.stick, 'i', Items.iron_ingot, 'b', Items.bowl);
         GameRegistry.addRecipe(new ItemStack(ItemInit.MAGNET_IRON), "gdg", "did", "gdg", 'd', ItemInit.IRON_DUST, 'g', ItemInit.GOLD_DUST, 'i', Items.iron_ingot);
         GameRegistry.addRecipe(new ItemStack(ItemInit.MAGNET_RING), "mmm", "mrm", "mmm", 'm', ItemInit.MAGNET_IRON, 'r', ItemInit.BLANK_RING);
+        GameRegistry.addRecipe(new ItemStack(ItemInit.WATER_WALKING), "wlw", "lwl", "wlw", 'w', Items.water_bucket, 'l', Items.leather);
     }
 }

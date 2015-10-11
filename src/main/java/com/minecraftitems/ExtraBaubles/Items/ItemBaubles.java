@@ -19,6 +19,7 @@ public class ItemBaubles extends Item implements IBauble
         super();
         this.setMaxStackSize(1);
         this.setCreativeTab(CreativeTabEB.EB_TAB);
+
     }
 
     @Override

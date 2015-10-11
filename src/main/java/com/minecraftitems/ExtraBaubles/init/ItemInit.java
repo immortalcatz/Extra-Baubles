@@ -2,7 +2,6 @@ package com.minecraftitems.ExtraBaubles.init;
 
 import com.minecraftitems.ExtraBaubles.Items.*;
 import cpw.mods.fml.common.registry.GameRegistry;
-import net.minecraft.entity.player.EntityPlayer;
 
 public class ItemInit
 {
@@ -14,8 +13,8 @@ public class ItemInit
     public static final ItemGoldDust GOLD_DUST = new ItemGoldDust();
     public static final ItemIronDust IRON_DUST = new ItemIronDust();
     public static final ItemBeltWaterWalking WATER_WALKING = new ItemBeltWaterWalking();
-    public static final ItemAmuletNightVision AMULET_NIGHT_VISION = new ItemAmuletNightVision();
-    //public static final ItemMixedRing MIXED_RING = new ItemMixedRing();
+    public static final ItemTest TEST = new ItemTest();
+    //public static final ItemAmuletNightVision AMULET_NIGHT_VISION = new ItemAmuletNightVision();
 
     public static void init()
     {
@@ -27,7 +26,8 @@ public class ItemInit
         GameRegistry.registerItem(GOLD_DUST, "GoldDust");
         GameRegistry.registerItem(IRON_DUST, "IronDust");
         GameRegistry.registerItem(WATER_WALKING, "WaterWalking");
-        GameRegistry.registerItem(AMULET_NIGHT_VISION, "AmuletNightVision");
-        //GameRegistry.registerItem(MIXED_RING, "MixedRing");
+        //GameRegistry.registerItem(AMULET_NIGHT_VISION, "AmuletNightVision");
+        //GameRegistry.registerItem(TEST, "ItemTest");
+
     }
 }

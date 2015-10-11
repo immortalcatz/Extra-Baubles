@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.10-1.1_beta"
+version = "1.7.10-1.2"
 group= "com.minecraftitems.ExtraBaubles" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "ExtraBaubles"
 
