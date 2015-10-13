@@ -13,8 +13,9 @@ public class ItemInit
     public static final ItemGoldDust GOLD_DUST = new ItemGoldDust();
     public static final ItemIronDust IRON_DUST = new ItemIronDust();
     public static final ItemBeltWaterWalking WATER_WALKING = new ItemBeltWaterWalking();
-    public static final ItemTest TEST = new ItemTest();
+    public static final ItemBag BAG = new ItemBag();
     //public static final ItemAmuletNightVision AMULET_NIGHT_VISION = new ItemAmuletNightVision();
+    public static final ItemRingOfOwnership RING_OF_OWNERSHIP = new ItemRingOfOwnership();
 
     public static void init()
     {
@@ -27,7 +28,7 @@ public class ItemInit
         GameRegistry.registerItem(IRON_DUST, "IronDust");
         GameRegistry.registerItem(WATER_WALKING, "WaterWalking");
         //GameRegistry.registerItem(AMULET_NIGHT_VISION, "AmuletNightVision");
-        //GameRegistry.registerItem(TEST, "ItemTest");
-
+        GameRegistry.registerItem(BAG, "ItemBag");
+        GameRegistry.registerItem(RING_OF_OWNERSHIP, "RingOfOwnership");
     }
 }

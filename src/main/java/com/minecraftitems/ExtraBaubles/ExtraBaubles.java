@@ -4,6 +4,7 @@ import com.minecraftitems.ExtraBaubles.Crafting.ItemCrafting;
 import com.minecraftitems.ExtraBaubles.init.BlockInit;
 import com.minecraftitems.ExtraBaubles.init.ItemInit;
 import com.minecraftitems.ExtraBaubles.proxy.CommonProxy;
+import com.minecraftitems.ExtraBaubles.proxy.IProxy;
 import com.minecraftitems.ExtraBaubles.reference.Reference;
 import com.minecraftitems.ExtraBaubles.utility.Log;
 import cpw.mods.fml.common.Mod;
@@ -16,8 +17,11 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 public class ExtraBaubles
 {
 
-    @SidedProxy(clientSide = "com.minecraftitems.ExtraBaubles.proxy.ClientProxy", serverSide = "com.minecraftitems.ExtraBaubles.proxy.CommonProxy")
-    public static CommonProxy Proxy;
+    @Mod.Instance(Reference.MOD_ID)
+    public static ExtraBaubles instance;
+
+    @SidedProxy(clientSide = "com.minecraftitems.ExtraBaubles.proxy.ClientProxy", serverSide = "com.minecraftitems.ExtraBaubles.proxy.ServerProxy")
+    public static IProxy Proxy;
 
     @Mod.EventHandler
     public static void preInit(FMLPreInitializationEvent event)
@@ -34,8 +38,8 @@ public class ExtraBaubles
     {
         Log.info("Started Initialization event");
         ItemCrafting.init();
-      // Proxy.RegisterRenders();
         Log.info("Finished Initialization event");
+        Proxy.registerEventHandlers();
     }
 
     @Mod.EventHandler

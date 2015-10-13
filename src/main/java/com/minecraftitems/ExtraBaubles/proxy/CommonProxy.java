@@ -1,9 +1,8 @@
 package com.minecraftitems.ExtraBaubles.proxy;
 
-public class CommonProxy
+public abstract class CommonProxy implements IProxy
 {
-    public void RegisterRenders()
-    {
+    public void registerEventHandlers() {
 
     }
 }

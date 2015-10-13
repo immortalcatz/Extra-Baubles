@@ -4,6 +4,9 @@ import baubles.api.BaubleType;
 import com.minecraftitems.ExtraBaubles.helpers.Config;
 import com.minecraftitems.ExtraBaubles.helpers.NBTHelper;
 import com.minecraftitems.ExtraBaubles.helpers.Vector3d;
+import com.minecraftitems.ExtraBaubles.reference.Messages;
+import com.minecraftitems.ExtraBaubles.utility.IOwnable;
+import com.minecraftitems.ExtraBaubles.utility.ItemHelper;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.item.EntityItem;
@@ -13,10 +16,16 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.nbt.NBTTagList;
 import net.minecraft.util.AxisAlignedBB;
+import net.minecraft.util.ChatComponentTranslation;
+import net.minecraft.util.StatCollector;
+import net.minecraft.world.World;
+import net.minecraftforge.common.UsernameCache;
 import net.minecraftforge.common.util.Constants;
+import org.lwjgl.input.Keyboard;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.UUID;
 
 public class ItemMagnetRing extends ItemBaubles
 {
@@ -125,4 +134,5 @@ public class ItemMagnetRing extends ItemBaubles
         }
         return blacklist;
     }
+
 }

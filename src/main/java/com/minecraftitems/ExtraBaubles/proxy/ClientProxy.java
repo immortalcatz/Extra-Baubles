@@ -1,14 +1,13 @@
 package com.minecraftitems.ExtraBaubles.proxy;
 
-import com.minecraftitems.ExtraBaubles.tileentity.TileEntityPowerPipe;
-import com.minecraftitems.ExtraBaubles.tileentity.TileEntityRenderPowerPipe;
-import cpw.mods.fml.client.registry.ClientRegistry;
+import com.minecraftitems.ExtraBaubles.utility.ItemTooltipHandler;
+import net.minecraftforge.common.MinecraftForge;
 
 public class ClientProxy extends CommonProxy
 {
     @Override
-    public void RegisterRenders()
-    {
-        ClientRegistry.bindTileEntitySpecialRenderer(TileEntityPowerPipe.class, new TileEntityRenderPowerPipe());
+    public void registerEventHandlers() {
+        super.registerEventHandlers();
+        MinecraftForge.EVENT_BUS.register(new ItemTooltipHandler());
     }
 }
