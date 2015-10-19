@@ -28,7 +28,7 @@ public class ExtraBaubles
     {
         Log.info("Started pre Initialization event");
         ItemInit.init();
-        //BlockInit.init();
+        BlockInit.init();
         Log.info("Finished pre Initialization event");
 
     }

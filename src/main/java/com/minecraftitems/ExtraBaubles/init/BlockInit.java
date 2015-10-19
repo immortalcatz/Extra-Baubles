@@ -10,6 +10,6 @@ public class BlockInit
 
     public static void init()
     {
-        GameRegistry.registerBlock(TEST_BLOCK, "TestBlock");
+       // GameRegistry.registerBlock(TEST_BLOCK, "TestBlock");
     }
 }

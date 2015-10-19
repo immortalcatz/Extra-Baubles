@@ -1,13 +1,56 @@
-[19:50:21] [main/INFO]: Logging in with username & password
-[19:50:26] [main/INFO]: Setting user: liamjarvisman
-[19:50:27] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:50:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[19:50:38] [Sound Library Loader/INFO]: Sound engine started
-[19:50:38] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[19:50:38] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[19:50:38] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
-[19:50:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[19:50:39] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[19:50:39] [Client thread/INFO]: Created: 512x512 textures/revolvers-atlas
-[19:50:40] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[19:50:40] [Sound Library Loader/INFO]: Sound engine started
+[19:51:59] [main/INFO]: Logging in with username & password
+[19:52:03] [main/INFO]: Setting user: liamjarvisman
+[19:52:04] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:52:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[19:52:13] [Sound Library Loader/INFO]: Sound engine started
+[19:52:13] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:52:13] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:52:14] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[19:52:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[19:52:15] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[19:52:15] [Client thread/INFO]: Created: 512x512 textures/revolvers-atlas
+[19:52:15] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[19:52:16] [Sound Library Loader/INFO]: Sound engine started
+[19:52:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:52:19] [Server thread/INFO]: Generating keypair
+[19:52:19] [Server thread/INFO]: Preparing start region for level 0
+[19:52:19] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:52:19] [Server thread/INFO]: liamjarvisman[local:E:db2c46a8] logged in with entity id 173 at (-287.3859394465649, 4.0, -60.94980949481704)
+[19:52:19] [Server thread/INFO]: liamjarvisman joined the game
+[19:52:32] [Client thread/INFO]: [CHAT] There is no such item with ID eb:TestBlock
+[19:52:38] [Server thread/INFO]: [liamjarvisman: Given [tile.eb:null.name] * 1 to liamjarvisman]
+[19:52:38] [Client thread/INFO]: [CHAT] Given [tile.eb:null.name] * 1 to liamjarvisman
+[19:53:41] [Client thread/INFO]: Stopping!
+[19:53:41] [Server thread/INFO]: Stopping server
+[19:53:41] [Server thread/INFO]: Saving players
+[19:53:41] [Server thread/INFO]: Saving worlds
+[19:53:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:53:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:53:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:53:42] [Client Shutdown Thread/INFO]: Stopping server
+[19:53:42] [Client Shutdown Thread/INFO]: Saving players
+[19:53:42] [main/INFO]: Logging in with username & password
+[19:53:47] [main/INFO]: Setting user: liamjarvisman
+[19:53:49] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:53:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[19:54:00] [Sound Library Loader/INFO]: Sound engine started
+[19:54:01] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:54:01] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:54:01] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[19:54:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[19:54:03] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[19:54:03] [Client thread/INFO]: Created: 512x512 textures/revolvers-atlas
+[19:54:03] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[19:54:04] [Sound Library Loader/INFO]: Sound engine started
+[20:10:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:10:15] [Server thread/INFO]: Generating keypair
+[20:10:19] [Server thread/INFO]: Preparing start region for level 0
+[20:10:19] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:10:20] [Server thread/INFO]: liamjarvisman[local:E:400df949] logged in with entity id 171 at (-288.39947985126514, 4.0, -60.74479518975246)
+[20:10:20] [Server thread/INFO]: liamjarvisman joined the game
+[20:10:20] [Server thread/INFO]: Saving and pausing game...
+[20:10:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:10:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:10:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:12:24] [Server thread/INFO]: [liamjarvisman: Set own game mode to Creative Mode]
+[20:12:24] [Client thread/INFO]: [CHAT] Your game mode has been updated

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876a0926-f471-4e86-92f9-01a3112dd589" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Blocks/TestBlock.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Extra-Baubles/assets/eb/textures/items/ItemTest_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Extra-Baubles/assets/eb/textures/items/ItemTest_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Extra-Baubles/assets/eb/textures/items/ItemTest_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Items/ItemRingOfOwnership.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-10-11-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-10-11-1.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/liamjarvisman.baub" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/liamjarvisman.baub" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/liamjarvisman.baubback" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/liamjarvisman.baubback" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-1.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-1.-1.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-1.0.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-1.0.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-2.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-2.-1.mca" />
@@ -19,13 +11,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/51401262-c403-4374-bb43-2cf2519eb6e9.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/51401262-c403-4374-bb43-2cf2519eb6e9.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/51401262-c403-4374-bb43-2cf2519eb6e9.json" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/51401262-c403-4374-bb43-2cf2519eb6e9.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/BlockInit.java" afterPath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/BlockInit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Baubles.ipr" afterPath="$PROJECT_DIR$/Extra-Baubles.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Baubles.iws" afterPath="$PROJECT_DIR$/Extra-Baubles.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/ExtraBaubles.java" afterPath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/ExtraBaubles.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/data/ImmersiveEngineering-SaveData.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/data/ImmersiveEngineering-SaveData.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Items/ItemBeltWaterWalking.java" afterPath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Items/ItemBeltWaterWalking.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/ItemInit.java" afterPath="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/ItemInit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/data/Village.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/data/Village.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Extra-Baubles/assets/eb/lang/en_US.lang" afterPath="$PROJECT_DIR$/out/production/Extra-Baubles/assets/eb/lang/en_US.lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
@@ -34,7 +22,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" />
@@ -162,13 +149,21 @@
       <file leaf-file-name="BlockInit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/BlockInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15592515">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.37422037">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extra-Baubles.iws" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra-Baubles.iws">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -177,7 +172,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/ExtraBaubles.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,13 +187,6 @@
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mcplogo.png" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forgeSrc-1.7.10-10.13.4.1492-1.7.10.jar!/mcplogo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -224,7 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/api/cofh/api/energy/EnergyStorage.java" />
         <option value="$PROJECT_DIR$/eclipse/options.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Items/ItemLightingStaff.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/tileentity/TileEntityPowerPipe.java" />
@@ -255,7 +242,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/proxy/CommonProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/proxy/ServerProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/proxy/ClientProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/ExtraBaubles.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/reference/GUIs.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/inventory/ContainerEVB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/utility/ItemHelper.java" />
@@ -274,6 +260,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/ItemInit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Items/ItemBeltWaterWalking.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Blocks/TestBlock.java" />
+        <option value="$PROJECT_DIR$/Extra-Baubles.iws" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/ExtraBaubles.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/BlockInit.java" />
       </list>
     </option>
@@ -335,90 +323,6 @@
               <option name="myItemId" value="Extra-Baubles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extra-Baubles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1492-1.7.10.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extra-Baubles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1492-1.7.10.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extra-Baubles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1492-1.7.10.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extra-Baubles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1492-1.7.10.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -445,44 +349,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extra-Baubles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extra-Baubles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1261,6 +1127,13 @@
       <option name="number" value="Default" />
       <updated>1442843615329</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testing things">
+      <created>1445244654057</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1445244654057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1274,8 +1147,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893" sideWeight="0.51319444" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893" sideWeight="0.49722221" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893" sideWeight="0.50277776" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.49444443" order="9" side_tool="false" content_ui="tabs" />
@@ -1284,7 +1157,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2611111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893" sideWeight="0.48680556" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.48680556" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1304,6 +1177,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing things" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing things" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1317,13 +1192,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Crafting/ItemCrafting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forgeSrc-1.7.10-10.13.4.1492-1.7.10-sources.jar!/net/minecraft/item/ItemSeedFood.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1664,14 +1532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forgeSrc-1.7.10-10.13.4.1492-1.7.10-sources.jar!/net/minecraft/block/BlockAir.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/Blocks/TestBlock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1685,24 +1545,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Baubles.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/ExtraBaubles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forgeSrc-1.7.10-10.13.4.1492-1.7.10-sources.jar!/net/minecraft/block/BlockAir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/minecraftitems/ExtraBaubles/init/BlockInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15592515">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.37422037">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
           </folding>
         </state>
       </provider>
