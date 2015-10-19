@@ -1,31 +1,13 @@
-[01:18:30] [main/INFO]: Setting user: Player516
-[01:18:31] [Client thread/INFO]: LWJGL Version: 2.9.1
-[01:18:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[01:18:40] [Sound Library Loader/INFO]: Sound engine started
-[01:18:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[01:18:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[01:18:41] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
-[01:18:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[01:18:42] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[01:18:42] [Client thread/INFO]: Created: 256x128 textures/revolvers-atlas
-[01:18:42] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[01:18:43] [Sound Library Loader/INFO]: Sound engine started
-[01:19:05] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[01:19:05] [Server thread/INFO]: Generating keypair
-[01:19:05] [Server thread/INFO]: Preparing start region for level 0
-[01:19:06] [Server thread/INFO]: Changing view distance to 12, from 10
-[01:19:06] [Server thread/INFO]: Player516[local:E:5fb4511a] logged in with entity id 173 at (-310.3155613009301, 4.0, -37.93095486701995)
-[01:19:06] [Server thread/INFO]: Player516 joined the game
-[01:19:07] [Server thread/INFO]: Saving and pausing game...
-[01:19:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[01:19:07] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[01:19:07] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[01:19:23] [Server thread/INFO]: Player516 has just earned the achievement [Taking Inventory]
-[01:19:23] [Client thread/INFO]: [CHAT] Player516 has just earned the achievement [Taking Inventory]
-[01:21:27] [Client thread/INFO]: Stopping!
-[01:21:27] [Server thread/INFO]: Stopping server
-[01:21:27] [Server thread/INFO]: Saving players
-[01:21:27] [Server thread/INFO]: Saving worlds
-[01:21:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[01:21:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[01:21:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:50:21] [main/INFO]: Logging in with username & password
+[19:50:26] [main/INFO]: Setting user: liamjarvisman
+[19:50:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:50:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[19:50:38] [Sound Library Loader/INFO]: Sound engine started
+[19:50:38] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:50:38] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:50:38] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[19:50:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[19:50:39] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[19:50:39] [Client thread/INFO]: Created: 512x512 textures/revolvers-atlas
+[19:50:40] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[19:50:40] [Sound Library Loader/INFO]: Sound engine started

@@ -9,8 +9,17 @@ item.eb:IronDust.name=Iron Dust
 item.eb:ItemBeltWaterWalking.name=Water walking belt
 item.eb:AmuletNightVision.name=Amulet of Night Vision
 item.eb:MixedRing.name=Mixed Ring
+item.eb:ItemBag.name=Bag
+item.eb:RingOfOwnership.name=Ring of Ownership
 
 #blocks
 
 #CreativeTab
 itemGroup.eb=Extra Baubles
+
+#Misc
+misc.eb:owner-set-to-self=You have know imprinted your soul to this item
+
+#tooltip
+tooltip.eb:belongsTo=Belongs to %s
+tooltip.eb:belongsToNoOne=Belongs to no-one

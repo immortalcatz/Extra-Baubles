@@ -10,6 +10,8 @@ import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.EntityPlayerMP;
 import net.minecraft.item.ItemStack;
+import net.minecraft.potion.Potion;
+import net.minecraft.potion.PotionEffect;
 import net.minecraft.util.ChatComponentTranslation;
 import net.minecraft.util.MathHelper;
 import net.minecraft.util.StatCollector;
@@ -60,6 +62,11 @@ public class ItemBeltWaterWalking extends ItemBaubles
         if ((player.isInWater() || paddlingInWater) && !player.isSneaking()) {
             player.motionY = 0.1f;
         }
+
+
+        PotionEffect effect = player.getActivePotionEffect(Potion.waterBreathing);
+        if (effect == null || effect.getDuration() < 900) player.addPotionEffect(new PotionEffect(Potion.waterBreathing.id, 1000, 1, true));
+
     }
 
     @Override
@@ -67,10 +74,14 @@ public class ItemBeltWaterWalking extends ItemBaubles
         if (!player.worldObj.isRemote) {
             player.worldObj.playSoundAtEntity(player, "random.orb", 0.1F, 1.3f);
         }
+
     }
 
     @Override
     public void onUnequipped(ItemStack itemstack, EntityLivingBase player) {
+
+        player.removePotionEffect(Potion.waterBreathing.id);
+
     }
 
 
