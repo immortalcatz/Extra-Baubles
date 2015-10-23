@@ -2,7 +2,6 @@ package com.minecraftitems.ExtraBaubles.Blocks;
 
 import com.minecraftitems.ExtraBaubles.utility.IVault;
 import com.minecraftitems.ExtraBaubles.utility.PlayerUtil;
-import net.minecraft.block.Block;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NBTTagCompound;
