@@ -12,4 +12,9 @@ public class Name
         public static final String UUID_LEAST_SIG = "UUIDLeastSig";
     }
 
+    public static final class TileEntity {
+
+        public static final String VAULT = Reference.MOD_ID + "VAULT";
+    }
+
 }

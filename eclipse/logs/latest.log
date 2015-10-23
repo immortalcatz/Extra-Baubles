@@ -1,57 +1,85 @@
-[19:51:59] [main/INFO]: Logging in with username & password
-[19:52:03] [main/INFO]: Setting user: liamjarvisman
-[19:52:04] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:52:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[19:52:13] [Sound Library Loader/INFO]: Sound engine started
-[19:52:13] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[19:52:13] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[19:52:14] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
-[19:52:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[19:52:15] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[19:52:15] [Client thread/INFO]: Created: 512x512 textures/revolvers-atlas
-[19:52:15] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[19:52:16] [Sound Library Loader/INFO]: Sound engine started
-[19:52:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[19:52:19] [Server thread/INFO]: Generating keypair
-[19:52:19] [Server thread/INFO]: Preparing start region for level 0
-[19:52:19] [Server thread/INFO]: Changing view distance to 12, from 10
-[19:52:19] [Server thread/INFO]: liamjarvisman[local:E:db2c46a8] logged in with entity id 173 at (-287.3859394465649, 4.0, -60.94980949481704)
-[19:52:19] [Server thread/INFO]: liamjarvisman joined the game
-[19:52:32] [Client thread/INFO]: [CHAT] There is no such item with ID eb:TestBlock
-[19:52:38] [Server thread/INFO]: [liamjarvisman: Given [tile.eb:null.name] * 1 to liamjarvisman]
-[19:52:38] [Client thread/INFO]: [CHAT] Given [tile.eb:null.name] * 1 to liamjarvisman
-[19:53:41] [Client thread/INFO]: Stopping!
-[19:53:41] [Server thread/INFO]: Stopping server
-[19:53:41] [Server thread/INFO]: Saving players
-[19:53:41] [Server thread/INFO]: Saving worlds
-[19:53:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[19:53:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[19:53:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[19:53:42] [Client Shutdown Thread/INFO]: Stopping server
-[19:53:42] [Client Shutdown Thread/INFO]: Saving players
-[19:53:42] [main/INFO]: Logging in with username & password
-[19:53:47] [main/INFO]: Setting user: liamjarvisman
-[19:53:49] [Client thread/INFO]: LWJGL Version: 2.9.1
-[19:53:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[19:54:00] [Sound Library Loader/INFO]: Sound engine started
-[19:54:01] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[19:54:01] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[19:54:01] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
-[19:54:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
-[19:54:03] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[19:54:03] [Client thread/INFO]: Created: 512x512 textures/revolvers-atlas
-[19:54:03] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[19:54:04] [Sound Library Loader/INFO]: Sound engine started
-[20:10:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[20:10:15] [Server thread/INFO]: Generating keypair
-[20:10:19] [Server thread/INFO]: Preparing start region for level 0
-[20:10:19] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:10:20] [Server thread/INFO]: liamjarvisman[local:E:400df949] logged in with entity id 171 at (-288.39947985126514, 4.0, -60.74479518975246)
-[20:10:20] [Server thread/INFO]: liamjarvisman joined the game
-[20:10:20] [Server thread/INFO]: Saving and pausing game...
-[20:10:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[20:10:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[20:10:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[20:12:24] [Server thread/INFO]: [liamjarvisman: Set own game mode to Creative Mode]
-[20:12:24] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[20:19:22] [Client Shutdown Thread/INFO]: Stopping server
+[16:32:50] [main/INFO]: Setting user: Player370
+[16:32:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:32:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[16:33:00] [Sound Library Loader/INFO]: Sound engine started
+[16:33:00] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[16:33:00] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[16:33:01] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[16:33:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Baubles, FMLFileResourcePack:Baubles, FMLFileResourcePack:Immersive Engineering
+[16:33:01] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[16:33:01] [Client thread/INFO]: Created: 256x128 textures/revolvers-atlas
+[16:33:02] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[16:33:02] [Sound Library Loader/INFO]: Sound engine started
+[16:33:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:33:07] [Server thread/INFO]: Generating keypair
+[16:33:08] [Server thread/INFO]: Preparing start region for level 0
+[16:33:08] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:33:09] [Server thread/INFO]: Player370[local:E:d9a36540] logged in with entity id 165 at (-267.55471464449374, 4.083840513806536, -84.4649015580741)
+[16:33:09] [Server thread/INFO]: Player370 joined the game
+[16:33:09] [Server thread/INFO]: Saving and pausing game...
+[16:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:33:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:33:09] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@18f4c2dd[id=5db36629-721d-3a36-8728-14b3ab112351,name=Player370,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:71) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:158) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:53) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:50) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827) [guava-17.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:148) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:133) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_45]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_45]
+Caused by: java.net.UnknownHostException: sessionserver.mojang.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184) ~[?:1.8.0_45]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_45]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_45]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:656) ~[?:1.8.0_45]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175) ~[?:1.8.0_45]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432) ~[?:1.8.0_45]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527) ~[?:1.8.0_45]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275) ~[?:1.8.0_45]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371) ~[?:1.8.0_45]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1147) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:988) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:986) ~[?:1.8.0_45]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_45]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:985) ~[?:1.8.0_45]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430) ~[?:1.8.0_45]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_45]
+	at java.security.AccessController.doPrivileged(AccessController.java:713) ~[?:1.8.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429) ~[?:1.8.0_45]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.8.0_45]
+	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:126) ~[HttpAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:54) ~[YggdrasilAuthenticationService.class:?]
+	... 18 more
+[16:33:16] [Server thread/INFO]: Player370 fell out of the world
+[16:33:16] [Client thread/INFO]: [CHAT] Player370 fell out of the world
+[16:33:18] [Server thread/INFO]: Player370 has just earned the achievement [Taking Inventory]
+[16:33:18] [Client thread/INFO]: [CHAT] Player370 has just earned the achievement [Taking Inventory]
+[16:33:43] [Client thread/INFO]: Stopping!
+[16:33:43] [Server thread/INFO]: Stopping server
+[16:33:43] [Server thread/INFO]: Saving players
+[16:33:43] [Server thread/INFO]: Saving worlds
+[16:33:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:33:43] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:33:43] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:33:44] [Client Shutdown Thread/INFO]: Stopping server
+[16:33:44] [Client Shutdown Thread/INFO]: Saving players
