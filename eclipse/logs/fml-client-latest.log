@@ -1927,3 +1927,20 @@ Details:
 [20:14:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
 [20:14:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
 [20:15:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[20:16:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[20:17:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[20:17:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[20:18:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[20:19:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save New World
+[20:19:22] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[20:19:22] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[20:19:22] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[20:19:22] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[20:19:22] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[20:19:22] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[20:19:22] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLServerStoppingEvent to mod Baubles
+[20:19:22] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLServerStoppingEvent to mod Baubles
+[20:19:22] [Server thread/TRACE] [EB/EB]: Sending event FMLServerStoppingEvent to mod EB
+[20:19:22] [Server thread/TRACE] [EB/EB]: Sent event FMLServerStoppingEvent to mod EB
+[20:19:22] [Server thread/TRACE] [ImmersiveEngineering/ImmersiveEngineering]: Sending event FMLServerStoppingEvent to mod ImmersiveEngineering
+[20:19:22] [Server thread/TRACE] [ImmersiveEngineering/ImmersiveEngineering]: Sent event FMLServerStoppingEvent to mod ImmersiveEngineering
