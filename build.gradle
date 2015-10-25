@@ -53,8 +53,7 @@ sourceSets {
     }
 
     api {
-        java {
-            srcDir 'src/api'
+        java { srcDir 'src/api'
         }
     }
 }
