@@ -15,6 +15,8 @@ public class ItemInit
     public static final ItemBeltWaterWalking WATER_WALKING = new ItemBeltWaterWalking();
     public static final ItemBag BAG = new ItemBag();
     public static final ItemAmuletNightVision AMULET_NIGHT_VISION = new ItemAmuletNightVision();
+    public static final ItemNameTagThing NAME_TAG_THING = new ItemNameTagThing();
+    public static final ItemTest2 TEST_2 = new ItemTest2();
 
     public static void init()
     {
@@ -28,5 +30,7 @@ public class ItemInit
         GameRegistry.registerItem(WATER_WALKING, "WaterWalking");
         GameRegistry.registerItem(AMULET_NIGHT_VISION, "AmuletNightVision");
         GameRegistry.registerItem(BAG, "ItemBag");
+        //GameRegistry.registerItem(NAME_TAG_THING, "NaMe TaG");
+        GameRegistry.registerItem(TEST_2, "Test2");
     }
 }
